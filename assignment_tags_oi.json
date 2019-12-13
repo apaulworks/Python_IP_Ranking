@@ -1,0 +1,37 @@
+{
+	"displayId": [
+		"str"
+	],
+	"patAssignorName": [
+		"arr",
+		"str"
+	],
+	"patAssigneeName": [
+		"arr",
+		"str"
+	],
+	"patAssignorExDate": [
+		"arr",
+		"date"
+	],
+	"inventionTitle": [
+		"arr",
+		"str"
+	],
+	"applNum": [ 
+		"arr",
+		"str"
+	],
+	"filingDate": [ 
+		"arr",
+		"date"
+	],
+	"issueDate": [
+		"arr",
+		"date"
+	],
+	"patNum": [
+		"arr",
+		"str"
+	]
+}
