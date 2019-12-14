@@ -11,8 +11,8 @@ bcrypt=3.1.6=py36hfa6e2cd_1
 beautifulsoup4=4.7.1=pypi_0
 blas=1.0=mkl
 bleach=3.1.0=py36_0
-ca-certificates=2019.6.16=hecc5488_0
-certifi=2019.6.16=py36_1
+ca-certificates=2019.11.27=0
+certifi=2019.11.28=py36_0
 cffi=1.12.3=py36h7a1dbc1_0
 chardet=3.0.4=py36_1
 colorama=0.4.1=py36_0
@@ -65,7 +65,7 @@ notebook=5.7.8=py36_0
 numpy=1.16.4=py36h19fb1c0_0
 numpy-base=1.16.4=py36hc3f5095_0
 openpyxl=2.6.2=pypi_0
-openssl=1.1.1c=hfa6e2cd_0
+openssl=1.1.1d=he774522_3
 packaging=19.0=py_0
 pandas=0.24.2=py36ha925a31_0
 pandoc=2.2.3.2=0
@@ -114,7 +114,7 @@ traitlets=4.3.2=py36h096827d_0
 twisted=19.2.1=py36hfa6e2cd_0
 urllib3=1.25.3=pypi_0
 vc=14.1=h0510ff6_4
-vs2015_runtime=14.15.26706=h3a45250_4
+vs2015_runtime=14.16.27012=hf0eaf9b_1
 w3lib=1.20.0=py36_0
 wcwidth=0.1.7=py36h3d5aa90_0
 webencodings=0.5.1=py36_1
@@ -124,5 +124,5 @@ wincertstore=0.2=py36h7fe50ca_0
 winpty=0.4.3=4
 zeromq=4.3.1=h33f27b4_3
 zipp=0.5.1=py_0
-zlib=1.2.11=h2fa13f4_1005
+zlib=1.2.11=h62dcd97_3
 zope.interface=4.6.0=py36hfa6e2cd_1000
